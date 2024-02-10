@@ -11,9 +11,10 @@
 }
 
 .logo {
+    font-family: 'Attemptyon', sans-serif;
     font-weight: bold;
-    font-size: 1.5rem;
-    color: #333; 
+    font-size: 1.75rem;
+    color: #fa00b7; 
     text-decoration: none; 
 }
 

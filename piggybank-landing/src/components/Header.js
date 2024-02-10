@@ -1,11 +1,11 @@
 import React from 'react';
-import './Header.css'; // Assume you create corresponding CSS files for styling
+import './Header.css'; 
 
 const Header = () => {
     return (
         <header className="header">
             <nav className="nav">
-                <a href="#home" className="logo">PiggyBank</a>
+                <a href="#home" className="logo">piggybank</a>
                 <ul className="nav-links">
                     <li><a href="#features">Features</a></li>
                     <li><a href="#pricing">Pricing</a></li>
