@@ -8,7 +8,7 @@ const Footer = () => {
                 <section className="footer-section">
                     <h4>Contact Us</h4>
                     <p>Email: support@piggybank.dk</p>
-                    <p>Phone: +45 1234 5678</p>
+                    <p>Phone: placeholder</p>
                 </section>
 
                 <section className="footer-section">
@@ -39,7 +39,7 @@ const Footer = () => {
             </div>
 
             <div className="footer-bottom">
-                <p>&copy; {new Date().getFullYear()} PiggyBank. All rights reserved.</p>
+                <p>&copy; {new Date().getFullYear()} piggybank. All rights reserved.</p>
             </div>
         </footer>
     );
