@@ -8,7 +8,6 @@ const Footer = () => {
                 <section className="footer-section">
                     <h4>Contact Us</h4>
                     <p>Email: support@piggybank.dk</p>
-                    <p>Phone: placeholder</p>
                 </section>
 
                 <section className="footer-section">
